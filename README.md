@@ -1,2 +1,2 @@
 # Text_Mining
-Welcome to the Text Mining topic in Data Science! This repository is a comprehensive collection of resources and code examples that delve into the fascinating world of text mining.
+Welcome to the Text Mining topic in Data Science! This repository is a comprehensive collection of resources and code examples that delve into the fascinating world of text mining.From natural language processing (NLP) techniques to sentiment analysis and topic modeling, explore the power of extracting valuable insights from textual data. Whether you're a beginner or an experienced data scientist, this repository will equip you with the tools and knowledge to unravel the hidden patterns within text and make informed decisions based on textual information. Happy mining!
